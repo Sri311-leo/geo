@@ -1,0 +1,8 @@
+{
+  "name": "Smart GeoFence Tracker",
+  "description": "An application to track students within an institution's boundary using geofencing technology, with separate modules for students and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
